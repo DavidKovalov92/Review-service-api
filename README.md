@@ -1,6 +1,6 @@
 # Review Service API
 
-# Review Service API — це RESTful API для управління відгуками, категоріями, жанрами, фільмами та користувачами. Проєкт побудований на основі Django та Django REST Framework.
+## Review Service API — це RESTful API для управління відгуками, категоріями, жанрами, фільмами та користувачами. Проєкт побудований на основі Django та Django REST Framework.
 
 ## Встановлення
 
